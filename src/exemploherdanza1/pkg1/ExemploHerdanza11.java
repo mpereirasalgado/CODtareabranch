@@ -15,6 +15,7 @@ public class ExemploHerdanza11 {
         Traballador traballador =new EmpregadoFixo("tt",3000f,40);
         System.out.println(emT.visualizarDato());
         System.out.println(emF.visualizarDato());
+        System.out.println("hola ");
         System.out.println(dir.visualizarDato());
         System.out.println(traballador.visualizarDato());
     }
